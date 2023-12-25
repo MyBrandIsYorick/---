@@ -1,0 +1,11 @@
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\bin\Debug\File_Service.dll
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\bin\Debug\File_Service.pdb
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\bin\Debug\TranslatorDLL.dll
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\bin\Debug\TranslatorDLL.pdb
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\obj\Debug\FileService.csproj.AssemblyReference.cache
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\obj\Debug\FileService.csproj.CoreCompileInputs.cache
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\obj\Debug\FileService.csproj.CopyComplete
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\obj\Debug\File_Service.dll
+C:\Users\denep\OneDrive\Desktop\Важное\Домашка_ПТУ\C#\Лаба-Новогодняя\File_Service\obj\Debug\File_Service.pdb

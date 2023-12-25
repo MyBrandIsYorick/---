@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMbko1D/LDlw0qyrKS9uE0bEwaKUUUVCXwkSr0p9SuKjrFmABpBwYicaMolY34m0YBQXNAhmgPotpMglLBx4Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denep\\OneDrive\\Desktop\\Важное\\Домашка_ПТУ\\C#\\Лаба-Новогодняя\\Лаба-Новогодняя\\Лаба-Новогодняя.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denep\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\denep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\denep\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\denep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\denep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
